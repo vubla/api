@@ -1,0 +1,8 @@
+#Allow from all
+#AuthName "Password Protect Directory"
+#AuthType Basic
+#AuthUserFile /var/www/.htpasswd
+#<Limit GET POST PUT>
+#Require valid-user
+#</Limit>
+

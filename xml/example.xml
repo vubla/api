@@ -1,0 +1,25 @@
+<catalog>
+    <product>
+        <pid>1</pid>
+        <category>1</category>
+        <option>
+            <name>product name</name>
+            <value>
+                <name>Blue Jeans</name>
+            </value>
+        </option>
+        ..
+    </product>
+    ..
+    <category>
+        <id>1</id>
+        <name>Jeans</name>
+        <parent_id>2</parent_id>
+    </category>
+    <category>
+        <id>2</id>
+        <name>Clothes</name>
+        <description>All kinds ...</description>
+    </category>
+</catalog>
+

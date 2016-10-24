@@ -1,0 +1,1581 @@
+<catalog>
+<product>
+<pid>1</pid>
+<category>4</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>MG200MMS</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/matrox/mg200mms.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>299.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Matrox</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>1</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=1</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Matrox G200 MMS</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Reinforcing its position as a multi-monitor trailblazer, Matrox Graphics Inc. has once again developed the most flexible and highly advanced solution in the industry. Introducing the new Matrox G200 Multi-Monitor Series; the first graphics card ever to support up to four DVI digital flat panel displays on a single 8&amp;quot; PCI board.With continuing demand for digital flat panels in the financial workplace, the Matrox G200 MMS is the ultimate in flexible solutions. The Matrox G200 MMS also supports the new digital video interface (DVI) created by the Digital Display Working Group (DDWG) designed to ease the adoption of digital flat panels. Other configurations include composite video capture ability and onboard TV tuner, making the Matrox G200 MMS the complete solution for business needs.Based on the award-winning MGA-G200 graphics chip, the Matrox G200 Multi-Monitor Series provides superior 2D/3D graphics acceleration to meet the demanding needs of business applications such as real-time stock quotes (Versus), live video feeds (Reuters &amp;amp; Bloombergs), multiple windows applications, word processing, spreadsheets and CAD.</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=1</name></value></option>
+<option>
+    <name>Model</name>
+        <value>     <products_attributes_id>4</products_attributes_id>
+        <products_id>1</products_id>
+        <options_id>3</options_id>
+        <options_values_id>5</options_values_id>
+        <value_price>0.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>5</products_options_values_id>
+        <language_id>1</language_id>
+        <name>Value</name>
+    </value>
+        <value>     <products_attributes_id>5</products_attributes_id>
+        <products_id>1</products_id>
+        <options_id>3</options_id>
+        <options_values_id>6</options_values_id>
+        <value_price>100.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>6</products_options_values_id>
+        <language_id>1</language_id>
+        <name>Premium</name>
+    </value>
+</option>
+<option>
+    <name>Memory</name>
+        <value>     <products_attributes_id>1</products_attributes_id>
+        <products_id>1</products_id>
+        <options_id>4</options_id>
+        <options_values_id>1</options_values_id>
+        <value_price>0.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>1</products_options_values_id>
+        <language_id>1</language_id>
+        <name>4 mb</name>
+    </value>
+        <value>     <products_attributes_id>2</products_attributes_id>
+        <products_id>1</products_id>
+        <options_id>4</options_id>
+        <options_values_id>2</options_values_id>
+        <value_price>50.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>2</products_options_values_id>
+        <language_id>1</language_id>
+        <name>8 mb</name>
+    </value>
+        <value>     <products_attributes_id>3</products_attributes_id>
+        <products_id>1</products_id>
+        <options_id>4</options_id>
+        <options_values_id>3</options_values_id>
+        <value_price>70.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>3</products_options_values_id>
+        <language_id>1</language_id>
+        <name>16 mb</name>
+    </value>
+</option>
+</product>
+<product>
+<pid>2</pid>
+<category>4</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>MG400-32MB</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/matrox/mg400-32mb.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>499.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Matrox</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>1</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=2</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Matrox G400 32MB</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Dramatically Different High Performance GraphicsIntroducing the Millennium G400 Series - a dramatically different, high performance graphics experience. Armed with the industry's fastest graphics chip, the Millennium G400 Series takes explosive acceleration two steps further by adding unprecedented image quality, along with the most versatile display options for all your 3D, 2D and DVD applications. As the most powerful and innovative tools in your PC's arsenal, the Millennium G400 Series will not only change the way you see graphics, but will revolutionize the way you use your computer.Key features:New Matrox G400 256-bit DualBus graphics chipExplosive 3D, 2D and DVD performanceDualHead DisplaySuperior DVD and TV output3D Environment-Mapped Bump MappingVibrant Color Quality rendering UltraSharp DAC of up to 360 MHz3D Rendering Array ProcessorSupport for 16 or 32 MB of memory</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=2</name></value></option>
+<option>
+    <name>Model</name>
+        <value>     <products_attributes_id>8</products_attributes_id>
+        <products_id>2</products_id>
+        <options_id>3</options_id>
+        <options_values_id>6</options_values_id>
+        <value_price>0.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>6</products_options_values_id>
+        <language_id>1</language_id>
+        <name>Premium</name>
+    </value>
+        <value>     <products_attributes_id>9</products_attributes_id>
+        <products_id>2</products_id>
+        <options_id>3</options_id>
+        <options_values_id>7</options_values_id>
+        <value_price>120.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>7</products_options_values_id>
+        <language_id>1</language_id>
+        <name>Deluxe</name>
+    </value>
+</option>
+<option>
+    <name>Memory</name>
+        <value>     <products_attributes_id>6</products_attributes_id>
+        <products_id>2</products_id>
+        <options_id>4</options_id>
+        <options_values_id>3</options_values_id>
+        <value_price>10.0000</value_price>
+        <price_prefix>-</price_prefix>
+        <products_options_values_id>3</products_options_values_id>
+        <language_id>1</language_id>
+        <name>16 mb</name>
+    </value>
+        <value>     <products_attributes_id>7</products_attributes_id>
+        <products_id>2</products_id>
+        <options_id>4</options_id>
+        <options_values_id>4</options_values_id>
+        <value_price>0.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>4</products_options_values_id>
+        <language_id>1</language_id>
+        <name>32 mb</name>
+    </value>
+</option>
+</product>
+<product>
+<pid>3</pid>
+<category>9</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>MSIMPRO</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/microsoft/msimpro.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>49.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=3</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Microsoft IntelliMouse Pro</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Every element of IntelliMouse Pro - from its unique arched shape to the texture of the rubber grip around its base - is the product of extensive customer and ergonomic research. Microsoft's popular wheel control, which now allows zooming and universal scrolling functions, gives IntelliMouse Pro outstanding comfort and efficiency.</name>
+    </value>
+</option>
+<option><name>discount_price</name><value><name>39.9900</name></value></option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=3</name></value></option>
+</product>
+<product>
+<pid>4</pid>
+<category>10</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-RPMK</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/replacement_killers.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>42.0000</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Microsoft</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>2</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=4</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>The Replacement Killers</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).Languages: English, Deutsch.Subtitles: English, Deutsch, Spanish.Audio: Dolby Surround 5.1.Picture Format: 16:9 Wide-Screen.Length: (approx) 80 minutes.Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=4</name></value></option>
+</product>
+<product>
+<pid>5</pid>
+<category>11</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-BLDRNDC</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/blade_runner.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>35.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=5</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Blade Runner - Director's Cut</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).Languages: English, Deutsch.Subtitles: English, Deutsch, Spanish.Audio: Dolby Surround 5.1.Picture Format: 16:9 Wide-Screen.Length: (approx) 112 minutes.Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>discount_price</name><value><name>30.0000</name></value></option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=5</name></value></option>
+</product>
+<product>
+<pid>6</pid>
+<category>10</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-MATR</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/the_matrix.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>39.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=6</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>The Matrix</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch.
+Audio: Dolby Surround.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 131 minutes.
+Other: Interactive Menus, Chapter Selection, Making Of.</name>
+    </value>
+</option>
+<option><name>discount_price</name><value><name>30.0000</name></value></option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=6</name></value></option>
+</product>
+<product>
+<pid>7</pid>
+<category>12</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-YGEM</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/youve_got_mail.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>34.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=7</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>You've Got Mail</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch, Spanish.
+Subtitles: English, Deutsch, Spanish, French, Nordic, Polish.
+Audio: Dolby Digital 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 115 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=7</name></value></option>
+</product>
+<product>
+<pid>8</pid>
+<category>13</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-ABUG</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/a_bugs_life.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>35.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=8</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>A Bug's Life</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Digital 5.1 / Dobly Surround Stereo.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 91 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=8</name></value></option>
+</product>
+<product>
+<pid>9</pid>
+<category>10</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-UNSG</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/under_siege.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>29.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=9</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Under Siege</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 98 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=9</name></value></option>
+</product>
+<product>
+<pid>10</pid>
+<category>10</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-UNSG2</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/under_siege2.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>29.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=10</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Under Siege 2 - Dark Territory</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 98 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=10</name></value></option>
+</product>
+<product>
+<pid>11</pid>
+<category>10</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-FDBL</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/fire_down_below.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>29.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=11</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Fire Down Below</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 100 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=11</name></value></option>
+</product>
+<product>
+<pid>12</pid>
+<category>10</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-DHWV</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/die_hard_3.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>39.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Fox</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>4</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=12</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Die Hard With A Vengeance</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 122 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=12</name></value></option>
+</product>
+<product>
+<pid>13</pid>
+<category>10</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-LTWP</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/lethal_weapon.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>34.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=13</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Lethal Weapon</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 100 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=13</name></value></option>
+</product>
+<product>
+<pid>14</pid>
+<category>15</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-REDC</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/red_corner.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>32.0000</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=14</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Red Corner</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 117 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=14</name></value></option>
+</product>
+<product>
+<pid>15</pid>
+<category>14</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-FRAN</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/frantic.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>35.0000</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=15</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Frantic</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 115 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=15</name></value></option>
+</product>
+<product>
+<pid>16</pid>
+<category>15</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-CUFI</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/courage_under_fire.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>38.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Fox</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>4</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=16</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Courage Under Fire</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 112 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>discount_price</name><value><name>29.9900</name></value></option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=16</name></value></option>
+</product>
+<product>
+<pid>17</pid>
+<category>10</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-SPEED</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/speed.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>39.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Fox</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>4</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=17</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Speed</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 112 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=17</name></value></option>
+</product>
+<product>
+<pid>18</pid>
+<category>10</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-SPEED2</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/speed_2.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>42.0000</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Fox</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>4</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=18</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Speed 2: Cruise Control</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 120 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=18</name></value></option>
+</product>
+<product>
+<pid>19</pid>
+<category>12</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-TSAB</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/theres_something_about_mary.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>49.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Fox</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>4</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=19</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>There's Something About Mary</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 114 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=19</name></value></option>
+</product>
+<product>
+<pid>20</pid>
+<category>15</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>DVD-BELOVED</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/dvd/beloved.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>54.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Warner</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>3</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=20</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Beloved</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Regional Code: 2 (Japan, Europe, Middle East, South Africa).
+Languages: English, Deutsch.
+Subtitles: English, Deutsch, Spanish.
+Audio: Dolby Surround 5.1.
+Picture Format: 16:9 Wide-Screen.
+Length: (approx) 164 minutes.
+Other: Interactive Menus, Chapter Selection, Subtitles (more languages).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=20</name></value></option>
+</product>
+<product>
+<pid>21</pid>
+<category>18</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>PC-SWAT3</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/sierra/swat_3.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>79.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Sierra</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>7</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=21</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>SWAT 3: Close Quarters Battle</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Windows 95/98211 in progress with shots fired. Officer down. Armed suspects with hostages. Respond Code 3! Los Angles, 2005, In the next seven days, representatives from every nation around the world will converge on Las Angles to witness the signing of the United Nations Nuclear Abolishment Treaty. The protection of these dignitaries falls on the shoulders of one organization, LAPD SWAT. As part of this elite tactical organization, you and your team have the weapons and all the training necessary to protect, to serve, and &quot;When needed&quot; to use deadly force to keep the peace. It takes more than weapons to make it through each mission. Your arsenal includes C2 charges, flashbangs, tactical grenades. opti-Wand mini-video cameras, and other devices critical to meeting your objectives and keeping your men free of injury. Uncompromised Duty, Honor and Valor!</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=21</name></value></option>
+</product>
+<product>
+<pid>22</pid>
+<category>19</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>PC-UNTM</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/gt_interactive/unreal_tournament.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>89.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>GT Interactive</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>8</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=22</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Unreal Tournament</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>From the creators of the best-selling Unreal, comes Unreal Tournament. A new kind of single player experience. A ruthless multiplayer revolution.This stand-alone game showcases completely new team-based gameplay, groundbreaking multi-faceted single player action or dynamic multi-player mayhem. It's a fight to the finish for the title of Unreal Grand Master in the gladiatorial arena. A single player experience like no other! Guide your team of 'bots' (virtual teamates) against the hardest criminals in the galaxy for the ultimate title - the Unreal Grand Master.</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=22</name></value></option>
+<option>
+    <name>Version</name>
+        <value>     <products_attributes_id>26</products_attributes_id>
+        <products_id>22</products_id>
+        <options_id>5</options_id>
+        <options_values_id>10</options_values_id>
+        <value_price>0.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>10</products_options_values_id>
+        <language_id>1</language_id>
+        <name>Download: Windows - English</name>
+    </value>
+        <value>     <products_attributes_id>27</products_attributes_id>
+        <products_id>22</products_id>
+        <options_id>5</options_id>
+        <options_values_id>13</options_values_id>
+        <value_price>0.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>13</products_options_values_id>
+        <language_id>1</language_id>
+        <name>Box: Windows - English</name>
+    </value>
+</option>
+</product>
+<product>
+<pid>23</pid>
+<category>20</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>PC-TWOF</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/gt_interactive/wheel_of_time.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>99.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>GT Interactive</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>8</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=23</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>The Wheel Of Time</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>The world in which The Wheel of Time takes place is lifted directly out of Jordan's pages; it's huge and consists of many different environments. How you navigate the world will depend largely on which game - single player or multipayer - you're playing. The single player experience, with a few exceptions, will see Elayna traversing the world mainly by foot (with a couple notable exceptions). In the multiplayer experience, your character will have more access to travel via Ter'angreal, Portal Stones, and the Ways. However you move around, though, you'll quickly discover that means of locomotion can easily become the least of the your worries...During your travels, you quickly discover that four locations are crucial to your success in the game. Not surprisingly, these locations are the homes of The Wheel of Time's main characters. Some of these places are ripped directly from the pages of Jordan's books, made flesh with Legend's unparalleled pixel-pushing ways. Other places are specific to the game, conceived and executed with the intent of expanding this game world even further. Either way, they provide a backdrop for some of the most intense first person action and strategy you'll have this year.</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=23</name></value></option>
+</product>
+<product>
+<pid>24</pid>
+<category>20</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>PC-DISC</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/gt_interactive/disciples.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>90.0000</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>GT Interactive</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>8</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=24</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Disciples: Sacred Lands</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>A new age is dawning...Enter the realm of the Sacred Lands, where the dawn of a New Age has set in motion the most momentous of wars. As the prophecies long foretold, four races now clash with swords and sorcery in a desperate bid to control the destiny of their gods. Take on the quest as a champion of the Empire, the Mountain Clans, the Legions of the Damned, or the Undead Hordes and test your faith in battles of brute force, spellbinding magic and acts of guile. Slay demons, vanquish giants and combat merciless forces of the dead and undead. But to ensure the salvation of your god, the hero within must evolve.The day of reckoning has come... and only the chosen will survive.</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=24</name></value></option>
+</product>
+<product>
+<pid>25</pid>
+<category>8</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>MSINTKB</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/microsoft/intkeyboardps2.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>69.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Microsoft</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>2</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=25</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Microsoft Internet Keyboard PS/2</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>The Internet Keyboard has 10 Hot Keys on a comfortable standard keyboard design that also includes a detachable palm rest. The Hot Keys allow you to browse the web, or check e-mail directly from your keyboard. The IntelliType Pro software also allows you to customize your hot keys - make the Internet Keyboard work the way you want it to!</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=25</name></value></option>
+</product>
+<product>
+<pid>26</pid>
+<category>9</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>MSIMEXP</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/microsoft/imexplorer.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>64.9500</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Microsoft</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>2</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=26</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Microsoft IntelliMouse Explorer</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Microsoft introduces its most advanced mouse, the IntelliMouse Explorer! IntelliMouse Explorer features a sleek design, an industrial-silver finish, a glowing red underside and taillight, creating a style and look unlike any other mouse. IntelliMouse Explorer combines the accuracy and reliability of Microsoft IntelliEye optical tracking technology, the convenience of two new customizable function buttons, the efficiency of the scrolling wheel and the comfort of expert ergonomic design. All these great features make this the best mouse for the PC!</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=26</name></value></option>
+<option>
+    <name>Model</name>
+        <value>     <products_attributes_id>10</products_attributes_id>
+        <products_id>26</products_id>
+        <options_id>3</options_id>
+        <options_values_id>8</options_values_id>
+        <value_price>0.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>8</products_options_values_id>
+        <language_id>1</language_id>
+        <name>PS/2</name>
+    </value>
+        <value>     <products_attributes_id>11</products_attributes_id>
+        <products_id>26</products_id>
+        <options_id>3</options_id>
+        <options_values_id>9</options_values_id>
+        <value_price>6.0000</value_price>
+        <price_prefix>+</price_prefix>
+        <products_options_values_id>9</products_options_values_id>
+        <language_id>1</language_id>
+        <name>USB</name>
+    </value>
+</option>
+</product>
+<product>
+<pid>27</pid>
+<category>5</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>HPLJ1100XI</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/hewlett_packard/lj1100xi.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>499.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Hewlett Packard</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>9</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=27</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Hewlett Packard LaserJet 1100Xi</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>HP has always set the pace in laser printing technology. The new generation HP LaserJet 1100 series sets another impressive pace, delivering a stunning 8 pages per minute print speed. The 600 dpi print resolution with HP's Resolution Enhancement technology (REt) makes every document more professional.Enhanced print speed and laser quality results are just the beginning. With 2MB standard memory, HP LaserJet 1100xi users will be able to print increasingly complex pages. Memory can be increased to 18MB to tackle even more complex documents with ease. The HP LaserJet 1100xi supports key operating systems including Windows 3.1, 3.11, 95, 98, NT 4.0, OS/2 and DOS. Network compatibility available via the optional HP JetDirect External Print Servers.HP LaserJet 1100xi also features The Document Builder for the Web Era from Trellix Corp. (featuring software to create Web documents).</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=27</name></value></option>
+</product>
+<product>
+<pid>28</pid>
+<category>21</category>\n<option>
+    <name>products_model</name>
+    <value>
+        <name>GT-P1000</name>
+    </value>
+</option>
+<option>
+    <name>products_image</name>
+    <value>
+        <name>images/samsung/galaxy_tab.gif</name>
+    </value>
+</option>
+<option>
+    <name>products_price</name>
+    <value>
+        <name>749.9900</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_name</name>
+    <value>
+        <name>Samsung</name>
+    </value>
+</option>
+<option>
+    <name>manufacturers_id</name>
+    <value>
+        <name>10</name>
+    </value>
+</option>
+<option><name>url</name><value><name>product_info.php?products_id=28</name></value></option>
+<option>
+    <name>products_name</name>
+    <value>
+        <name>Samsung Galaxy Tab</name>
+    </value>
+</option>
+<option>
+    <name>products_description</name>
+    <value>
+        <name>Powered by a Cortex A8 1.0GHz application processor, the Samsung GALAXY Tab is designed to deliver high performance whenever and wherever you are. At the same time, HD video contents are supported by a wide range of multimedia formats (DivX, XviD, MPEG4, H.263, H.264 and more), which maximizes the joy of entertainment.With 3G HSPA connectivity, 802.11n Wi-Fi, and Bluetooth 3.0, the Samsung GALAXY Tab enhances users' mobile communication on a whole new level. Video conferencing and push email on the large 7-inch display make communication more smooth and efficient. For voice telephony, the Samsung GALAXY Tab turns out to be a perfect speakerphone on the desk, or a mobile phone on the move via Bluetooth headset.</name>
+    </value>
+</option>
+<option><name>buy_link</name><value><name>index.php?cPath=3_10&amp;amp;sort=2a&amp;amp;action=buy_now&amp;amp;products_id=28</name></value></option>
+</product>
+<category>
+<id>1</id><name>Hardware</name><parent_id>0</parent_id></category><category>
+<id>2</id><name>Software</name><parent_id>0</parent_id></category><category>
+<id>3</id><name>DVD Movies</name><parent_id>0</parent_id></category><category>
+<id>4</id><name>Graphics Cards</name><parent_id>1</parent_id></category><category>
+<id>5</id><name>Printers</name><parent_id>1</parent_id></category><category>
+<id>6</id><name>Monitors</name><parent_id>1</parent_id></category><category>
+<id>7</id><name>Speakers</name><parent_id>1</parent_id></category><category>
+<id>8</id><name>Keyboards</name><parent_id>1</parent_id></category><category>
+<id>9</id><name>Mice</name><parent_id>1</parent_id></category><category>
+<id>10</id><name>Action</name><parent_id>3</parent_id></category><category>
+<id>11</id><name>Science Fiction</name><parent_id>3</parent_id></category><category>
+<id>12</id><name>Comedy</name><parent_id>3</parent_id></category><category>
+<id>13</id><name>Cartoons</name><parent_id>3</parent_id></category><category>
+<id>14</id><name>Thriller</name><parent_id>3</parent_id></category><category>
+<id>15</id><name>Drama</name><parent_id>3</parent_id></category><category>
+<id>16</id><name>Memory</name><parent_id>1</parent_id></category><category>
+<id>17</id><name>CDROM Drives</name><parent_id>1</parent_id></category><category>
+<id>18</id><name>Simulation</name><parent_id>2</parent_id></category><category>
+<id>19</id><name>Action</name><parent_id>2</parent_id></category><category>
+<id>20</id><name>Strategy</name><parent_id>2</parent_id></category><category>
+<id>21</id><name>Gadgets</name><parent_id>0</parent_id></category></catalog>

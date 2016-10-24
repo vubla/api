@@ -1,0 +1,370 @@
+<?xml version ='1.0' encoding ='UTF-8' ?> 
+<definitions name='Vubla' 
+  targetNamespace='http://alex.vubla.com/api/Vubla' 
+       xmlns:tns=' http://alex.vubla.com/api/Vubla ' 
+  xmlns:soap='http://schemas.xmlsoap.org/wsdl/soap/' 
+  xmlns:xsd='http://www.w3.org/2001/XMLSchema' 
+  xmlns:soapenc='http://schemas.xmlsoap.org/soap/encoding/' 
+  xmlns:wsdl='http://schemas.xmlsoap.org/wsdl/' 
+  xmlns='http://schemas.xmlsoap.org/wsdl/'> 
+    <types>
+        <xsd:schema targetNamespace="http://alex.vubla.com/api/Vubla">
+            <xsd:element name="StatisticsRequest">
+                <xsd:complexType />
+            </xsd:element>
+            
+            <xsd:element name="LogRequest">
+                <xsd:complexType />
+            </xsd:element>
+            
+            <xsd:element name="CreateUserRequest">
+                <xsd:complexType />
+            </xsd:element>
+            
+            <xsd:element name="DeleteUserRequest">
+                <xsd:complexType />
+            </xsd:element>
+            
+            <xsd:element name="PurgeUserRequest">
+                <xsd:complexType />
+            </xsd:element>
+            
+            <xsd:element name="RecoverUserRequest">
+                <xsd:complexType />
+            </xsd:element>
+            
+            <xsd:element name="SearchRequest">
+                <xsd:complexType />
+            </xsd:element>
+            
+            <xsd:element name="SearchResponse">
+                <xsd:complexType >
+                    <xsd:sequence>
+                        <xsd:element name="ids" type="xsd:int" maxOccurs="unbounded" minOccurs="0"/>
+                        <xsd:element name="alternatives" type="tns:SearchAlternative" maxOccurs="unbounded" minOccurs="0"/>
+                        <xsd:element name="keywords" type="tns:UserDefinedKeyword" maxOccurs="unbounded" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            
+            <xsd:complexType name="SearchAlternative">
+                <xsd:all>
+                    <xsd:element name="word" type="xsd:string" maxOccurs="1" minOccurs="1"/>
+                </xsd:all>
+            </xsd:complexType>
+            
+            <xsd:complexType name="UserDefinedKeyword">
+                <xsd:all>
+                    <xsd:element name="url" type="xsd:string" maxOccurs="1" minOccurs="1"/>
+                    <xsd:element name="text" type="xsd:string" maxOccurs="1" minOccurs="1"/>
+                </xsd:all>
+            </xsd:complexType>
+              
+            <xsd:complexType name="ArrayOfSearchLogEntries">
+                <xsd:sequence>
+                    <xsd:element name="result" type="tns:SearchLogEntry" minOccurs="0"
+                        maxOccurs="unbounded" />
+                </xsd:sequence>
+            </xsd:complexType>
+            
+            <xsd:complexType name="SearchLogEntry">
+                <xsd:all>
+                    <xsd:element name="id" type="xsd:int" maxOccurs="1" minOccurs="0"/>
+                    <xsd:element name="time" type="xsd:int" maxOccurs="1" minOccurs="0"/>
+                    <xsd:element name="q" type="xsd:string" maxOccurs="1" minOccurs="0"/>
+                    <xsd:element name="search_for" type="xsd:string" maxOccurs="1" minOccurs="0"/>
+                    <xsd:element name="did_you_mean" type="xsd:string" maxOccurs="1" minOccurs="0"/>
+                    <xsd:element name="what_you_mean" type="xsd:string" maxOccurs="1" minOccurs="0"/>
+                    <xsd:element name="prodids" type="xsd:int" maxOccurs="unbounded" minOccurs="0"/>
+                    <xsd:element name="prodnames" type="xsd:string" maxOccurs="unbounded" minOccurs="0"/>
+                    <xsd:element name="ip" type="xsd:string" maxOccurs="1" minOccurs="0"/>
+                    <xsd:element name="useragent" type="xsd:string" maxOccurs="1" minOccurs="0"/>
+                    <xsd:element name="words" type="xsd:string" maxOccurs="unbounded" minOccurs="0"/>
+                </xsd:all>
+            </xsd:complexType>
+            
+            <xsd:complexType name="ArrayOfWords">
+                <xsd:sequence>
+                    <xsd:element name="result" type="tns:Words" minOccurs="0"
+                        maxOccurs="unbounded" />
+                </xsd:sequence>
+            </xsd:complexType>
+            
+            <xsd:complexType name="Words">
+                <xsd:all>
+                    <xsd:element name="word" type="xsd:string" maxOccurs="1" minOccurs="0"/>
+                    <xsd:element name="count" type="xsd:int" maxOccurs="1" minOccurs="0"/>
+                </xsd:all>
+            </xsd:complexType>
+        </xsd:schema>
+    </types>
+
+    <message name='getSettingRequest'> 
+        <part name='name' type='xsd:string'/> 
+    </message> 
+    <message name='getSettingResponse'> 
+        <part name='Result' type='xsd:string'/> 
+    </message> 
+    
+    <message name='setSettingRequest'> 
+        <part name='name' type='xsd:string'/> 
+        <part name='value' type='xsd:string'/> 
+    </message> 
+    <message name='setSettingResponse'> 
+        <part name='Result' type='xsd:boolean'/> 
+    </message>
+    
+    <message name='getStatisticsRequest'> 
+        <part name='options' type='tns:StatisticsRequest'/> 
+    </message> 
+    <message name='getStatisticsResponse'> 
+        <part name='Result' type='xsd:float'/> 
+    </message> 
+    
+    <message name='getLogRequest'> 
+        <part name='options' type='tns:LogRequest'/> 
+    </message> 
+    <message name='getLogResponse'> 
+        <part name='Result' type='tns:ArrayOfSearchLogEntries'/> 
+    </message> 
+    
+    <message name='getHotSearchesRequest'> 
+        <part name='options' type='tns:StatisticsRequest'/> 
+    </message> 
+    <message name='getHotSearchesResponse'> 
+        <part name='Result' type='tns:alex.vubla.com/api'/> 
+    </message>  
+    
+    <message name='searchRequest'> 
+        <part name='data' type='tns:ArrayOfSearchLogEntriesRequest'/> 
+    </message> 
+    <message name='searchResponse'> 
+        <part name='Result' type='tns:SearchResponse'/>
+    </message> 
+    
+    <message name='loginRequest'> 
+        <part name='username' type='xsd:string'/> 
+        <part name='password' type='xsd:string'/> 
+    </message> 
+    <message name='loginResponse'> 
+        <part name='sessionId' type='xsd:string'/> 
+    </message> 
+    
+    <message name='createUserRequest'> 
+        <part name='data' type='tns:CreateUserRequest'/> 
+    </message> 
+    <message name='createUserResponse'> 
+        <part name='Result' type='xsd:int'/> 
+    </message>  
+    
+    <message name='deleteUserRequest'> 
+        <part name='data' type='tns:DeleteUserRequest'/> 
+    </message> 
+    <message name='deleteUserResponse'> 
+        <part name='Result' type='xsd:boolean'/> 
+    </message>  
+    
+    <message name='purgeUserRequest'> 
+        <part name='data' type='tns:PurgeUserRequest'/> 
+    </message> 
+    <message name='purgeUserResponse'> 
+        <part name='Result' type='xsd:boolean'/> 
+    </message>  
+    
+    <message name='recoverUserRequest'> 
+        <part name='data' type='tns:RecoverUserRequest'/> 
+    </message> 
+    <message name='recoverUserResponse'> 
+        <part name='Result' type='xsd:int'/> 
+    </message> 
+    
+    
+    <portType name='VublaPortType'> 
+        <operation name='getSetting'> 
+            <input message='tns:getSettingRequest'/> 
+            <output message='tns:getSettingResponse'/> 
+        </operation> 
+        <operation name='setSetting'> 
+            <input message='tns:setSettingRequest'/> 
+            <output message='tns:setSettingResponse'/> 
+        </operation> 
+        <operation name='login'> 
+            <input message='tns:loginRequest'/> 
+            <output message='tns:loginResponse'/> 
+        </operation> 
+        <operation name='search'> 
+            <input message='tns:searchRequest'/> 
+            <output message='tns:searchResponse'/> 
+        </operation> 
+        <operation name='getStatistics'> 
+            <input message='tns:getStatisticsRequest'/> 
+            <output message='tns:getStatisticsResponse'/> 
+        </operation> 
+        <operation name='getLog'> 
+            <input message='tns:getLogRequest'/> 
+            <output message='tns:getLogResponse'/> 
+        </operation>
+        <operation name='getHotSearches'> 
+            <input message='tns:getHotSearchesRequest'/> 
+            <output message='tns:getHotSearchesResponse'/> 
+        </operation>
+        <operation name='createUser'> 
+            <input message='tns:createUserRequest'/> 
+            <output message='tns:createUserResponse'/> 
+        </operation>
+        <operation name='deleteUser'> 
+            <input message='tns:deleteUserRequest'/> 
+            <output message='tns:deleteUserResponse'/> 
+        </operation>
+        <operation name='purgeUser'> 
+            <input message='tns:purgeUserRequest'/> 
+            <output message='tns:purgeUserResponse'/> 
+        </operation>
+        <operation name='recoverUser'> 
+            <input message='tns:recoverUserRequest'/> 
+            <output message='tns:recoverUserResponse'/> 
+        </operation>
+    </portType> 
+    
+    <binding name='VublaBinding' type='tns:VublaPortType'> 
+        <soap:binding style='rpc' 
+            transport='http://schemas.xmlsoap.org/soap/http'/> 
+        <operation name='getSetting'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/getSetting'/> 
+            <input> 
+                <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/getSetting' 
+                    encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+            </input> 
+            <output> 
+                <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/getSetting' 
+                    encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+            </output> 
+        </operation> 
+      
+        <operation name='setSetting'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/setSetting'/> 
+            <input> 
+                <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/setSetting' 
+                    encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+            </input> 
+            <output> 
+                <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/setSetting' 
+                encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+            </output> 
+        </operation> 
+      
+        <operation name='search'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/search'/> 
+            <input> 
+                <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/search' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+            </input> 
+            <output> 
+                <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/search' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+            </output> 
+        </operation>
+      
+        <operation name='login'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/login'/> 
+            <input> 
+                <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/login' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+            </input> 
+            <output> 
+                <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/login' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+            </output> 
+        </operation> 
+      
+        <operation name='getStatistics'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/getStatistics'/> 
+                <input> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/getStatistics' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </input> 
+                <output> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/getStatistics' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </output>  
+        </operation> 
+      
+        <operation name='getLog'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/getLog'/> 
+                <input> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/getLog' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </input> 
+                <output> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/getLog' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </output>  
+        </operation> 
+      
+        <operation name='getHotSearches'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/getHotSearches'/> 
+                <input> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/getHotSearches' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </input> 
+                <output> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/getHotSearches' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </output>  
+        </operation> 
+      
+        <operation name='createUser'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/createUser'/> 
+                <input> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/createUser' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </input> 
+                <output> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/createUser' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </output>  
+        </operation> 
+      
+        <operation name='deleteUser'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/deleteUser'/> 
+                <input> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/deleteUser' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </input> 
+                <output> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/deleteUser' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </output>  
+        </operation> 
+      
+        <operation name='purgeUser'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/purgeUser'/> 
+                <input> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/purgeUser' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </input> 
+                <output> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/purgeUser' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </output>  
+        </operation> 
+      
+        <operation name='recoverUser'> 
+            <soap:operation soapAction='http://alex.vubla.com/api/soap/recoverUser'/> 
+                <input> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/recoverUser' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </input> 
+                <output> 
+                    <soap:body use='encoded' namespace='http://alex.vubla.com/api/soap/recoverUser' 
+                        encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'/> 
+                </output> 
+        </operation> 
+    </binding> 
+    
+    <service name='VublaService'> 
+        <port name='VublaPort' binding='VublaBinding'> 
+            <soap:address location='http://alex.vubla.com/api/soap/server1.php'/> 
+        </port> 
+    </service> 
+</definitions>

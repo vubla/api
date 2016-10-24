@@ -1,0 +1,19 @@
+
+
+<!ELEMENT catalog (product+, category+)>	
+<!ELEMENT product (pid, category*, option+)>
+<!ELEMENT pid (#PCDATA)>
+<!ELEMENT category (#PCDATA)> <!-- Id of the category -->
+
+<!ELEMENT option (name, value+)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT value (name, price_prefix?, value_price?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price_prefix (#PCDATA)>
+<!ELEMENT value_price (#PCDATA)>
+
+<!ELEMENT category (id, name, parent_id, description?)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT parent_id (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
